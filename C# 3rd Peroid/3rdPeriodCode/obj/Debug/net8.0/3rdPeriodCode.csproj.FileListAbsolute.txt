@@ -1,0 +1,14 @@
+h:\C# 3rd Peroid\3rdPeriodCode\bin\Debug\net8.0\3rdPeriodCode.exe
+H:\C# 3rd Peroid\3rdPeriodCode\bin\Debug\net8.0\3rdPeriodCode.deps.json
+H:\C# 3rd Peroid\3rdPeriodCode\bin\Debug\net8.0\3rdPeriodCode.runtimeconfig.json
+h:\C# 3rd Peroid\3rdPeriodCode\bin\Debug\net8.0\3rdPeriodCode.dll
+h:\C# 3rd Peroid\3rdPeriodCode\bin\Debug\net8.0\3rdPeriodCode.pdb
+h:\C# 3rd Peroid\3rdPeriodCode\obj\Debug\net8.0\3rdPeriodCode.GeneratedMSBuildEditorConfig.editorconfig
+h:\C# 3rd Peroid\3rdPeriodCode\obj\Debug\net8.0\3rdPeriodCode.AssemblyInfoInputs.cache
+h:\C# 3rd Peroid\3rdPeriodCode\obj\Debug\net8.0\3rdPeriodCode.AssemblyInfo.cs
+h:\C# 3rd Peroid\3rdPeriodCode\obj\Debug\net8.0\3rdPeriodCode.csproj.CoreCompileInputs.cache
+h:\C# 3rd Peroid\3rdPeriodCode\obj\Debug\net8.0\3rdPeriodCode.dll
+h:\C# 3rd Peroid\3rdPeriodCode\obj\Debug\net8.0\refint\3rdPeriodCode.dll
+h:\C# 3rd Peroid\3rdPeriodCode\obj\Debug\net8.0\3rdPeriodCode.pdb
+H:\C# 3rd Peroid\3rdPeriodCode\obj\Debug\net8.0\3rdPeriodCode.genruntimeconfig.cache
+H:\C# 3rd Peroid\3rdPeriodCode\obj\Debug\net8.0\ref\3rdPeriodCode.dll
